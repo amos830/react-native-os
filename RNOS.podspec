@@ -17,4 +17,5 @@ Pod::Spec.new do |s|
   s.exclude_files       = 'android/**/*'
   s.exclude_files       = 'example/**/*'
   s.dependency 'React'
+  s.authors = { "Your Name" => "Amos" ,"your email" = "chunghmak8-c@my.city.edu.hk"}
 end
